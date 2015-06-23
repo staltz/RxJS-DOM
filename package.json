@@ -22,6 +22,7 @@
     "rx": "*"
   },
   "devDependencies": {
+    "rx": "*",
     "grunt-cli": "*",
     "grunt": "*",
     "grunt-contrib-jshint": "*",
